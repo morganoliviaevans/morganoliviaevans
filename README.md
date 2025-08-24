@@ -1,7 +1,7 @@
 ## Hello, I'm Morgan Olivia Evans! 👋
 
 
-I am a 2025 computer science graduate from UC Irvine with experience in embedded systems, high-performance computing, and earth system science. My journey has taken me through hands-on roles at NASA, KPFF, SCEC, and ACCESS, and I’m always eager to keep learning, building creatively, and contributing to impactful real-world systems.
+I'm a 2025 computer science graduate from UC Irvine with experience in embedded systems, high-performance computing, and earth system science. My journey has taken me through hands-on roles at NASA, KPFF, SCEC, and ACCESS, and I’m always eager to keep learning, building creatively, and contributing to impactful real-world systems.
 
 ### Featured Projects
 
